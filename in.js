@@ -1,1 +1,1 @@
-asdaklasda
+const apa = "from vss";
